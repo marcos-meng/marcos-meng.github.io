@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://marcos-meng.github.io/sitemap.xml
